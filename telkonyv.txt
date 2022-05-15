@@ -1,2 +1,0 @@
-Drevenka;Bence;36701234567;drevenka@bence.com;Sóskút
-Cserna;Bálint;36301234567;cserna@balint.hu;Szfvár
